@@ -1,0 +1,33 @@
+.container {
+	margin: 0 auto;
+}
+#main-bio {
+	float: left;
+	width: 70%;
+}
+#contain-info {
+	float: left;
+}
+#bio-image {
+	float: left;
+}
+body {
+	background-color: #efeee7;
+	font: "Georgia",Times New Roman,Times,serif;
+	color: #333333;
+	margin: 0;
+	padding: 0;
+}
+header{
+	background-color: #d21034;
+}
+
+/* Need to come back to this and find the margins and color */
+h1{
+	background-color: #333333;
+	color: red; 
+	font-size: 28px;
+}
+h2{
+	font-size: 24px;
+}
